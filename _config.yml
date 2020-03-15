@@ -1,0 +1,11 @@
+# Site settings
+title: Ion
+email: meguerreroa@unal.edu.co
+description: > # this means to ignore newlines until "baseurl:"
+  Michael Guerrero Resume.
+baseurl: "/home" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  meguerreroa
+
+# Build settings
+markdown: kramdown
